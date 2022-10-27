@@ -1,0 +1,63 @@
+.main{
+    height: 400px;
+    width: 480px;
+    background-color: #2d265a;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 8%;
+}
+.container{
+    height: 350px;
+    width: 380px;
+    background-color: #ff69b4;
+    border-radius: 10px;
+    border-bottom: #8f0148 6px solid;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 5px;
+    
+}
+.result{
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #0969da;
+    border-color: 3px rgb(3, 3, 66);
+    color: white;
+    margin-right: 10px;
+    text-align: right;
+    padding-right: 10px;
+
+    
+}
+.buttonyellow{
+    width: 78px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: yellow;
+    color: rgb(97, 94, 94);
+    border: none;
+    border-bottom: rgb(148, 148, 6) 3px solid;
+    margin-right: 10px;
+}
+.buttonblue{
+    width: 78px;
+    height: 50px; 
+    border-radius: 10px;
+    background-color: #094a94;
+    color: white;
+    border: none;
+    border-bottom: #02172e 3px solid;
+    margin-right: 10px;
+}
+.buttongreen{
+    width: 78px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: chartreuse;
+    border: none;
+    border-bottom: green 3px solid;
+    margin-right: 10px;
+}
